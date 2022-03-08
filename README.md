@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m @lpninja
 
-- 🔭 I’m currently working on DevOps for @Sunpulse and system adminstrator. Dataloggers for @liquidstar_io
+- 🔭 I’m currently working on DevOps for @Sunpulse and system adminstrator. Dataloggers for @liquidstar-io
 - 🌱 I’m currently learning NodeJS & mongoDB
 - 👯 I’m looking to collaborate on html, blogging.
 - 🤔 I’m looking for help with open source projects related to solar energy.
