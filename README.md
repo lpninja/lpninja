@@ -1,7 +1,5 @@
 ### Hi there 👋
 I’m @lpninja
-<!--
-**lpninja/lpninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on DevOps for @Sunpulse and system adminstrator. Dataloggers for @liquidstar_io
 - 🌱 I’m currently learning NodeJS & mongoDB
