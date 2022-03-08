@@ -7,6 +7,6 @@ I’m @lpninja
 - 🤔 I’m looking for help with open source projects related to solar energy.
 - 💬 Ask me about solar engineering, design, datalogging for solar power plants, IoT. Connecting databases to NFT's.
 - 📫 How to reach me: at solarengineer at gmail
-- ⚡ Fun fact: I once rode my fixed gear bike from Tokyo to Osaka in 3 days and camped along the way.
+- ⚡ Fun fact: I once rode my fixed gear bike from Tokyo to Osaka in 3 days and camped along the way. I couldn't feel my hand for 2 months after this.
 
 
