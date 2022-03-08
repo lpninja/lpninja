@@ -9,4 +9,5 @@ I’m @lpninja
 - 📫 How to reach me: at solarengineer at gmail
 - ⚡ Fun fact: I once rode my fixed gear bike from Tokyo to Osaka in 3 days and camped along the way. I couldn't feel my hand for 2 months after this.
 
+My blog is [here:](https://lpninja.github.io/).
 
