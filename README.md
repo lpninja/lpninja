@@ -8,8 +8,6 @@ I’m @lpninja
 - 💬 Ask me about solar engineering, design, datalogging for solar power plants, IoT. Connecting databases to NFT's.
 - 🔬 My current research is understanding if Proof-of-Work is absolutely necessary or are there alternatives? I am still not convinced that Proof-of-Stake is an actual replacement for Proof-of-Work.
 - ⚡ Fun fact: I once rode my fixed gear bike from [Tokyo to Osaka](https://vimeo.com/user7005442) in 3 days and camped along the way. I couldn't feel my hand for 2 months after this.
-- 📫 How to reach me: at solarengineer at gmail dot com
-
 
 My blog is [here.](https://lpninja.github.io/)
 
