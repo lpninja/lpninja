@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m @lpninja
 
-- 🔭 I’m currently working as DevOps and system adminstrator @Sunpulse. Dataloggers, IoT for @liquidstar-io
+- 🔭 I’m currently working as DevOps and system adminstrator @Sunpulse. Sunpulse is making a solar power plant list website for all of the solar power plants in Japan (550,000+). Dataloggers, and embedded IoT for @liquidstar-io.
 - 🌱 I’m currently learning NodeJS & MongoDB, Express, NPM. 
 - 👯 I’m looking to collaborate on html, css, blogs.
 - 🤔 I’m looking for help with open source projects related to solar energy.
