@@ -10,5 +10,5 @@ I’m @lpninja
 - ⚡ Fun fact: I once rode my fixed gear bike from [Tokyo to Osaka](https://vimeo.com/user7005442) in 3 days and camped along the way in carparks, the bush and anywhere. I couldn't feel my hand for 2 months after this. It was awesome.
 - Appeciate bootstrapping.
 
-My blog is [here.](https://lpninja.github.io/)
+My eclectic blog is [here.](https://lpninja.github.io/)
 
