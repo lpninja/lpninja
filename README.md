@@ -6,7 +6,7 @@ I’m @lpninja
 - 👯 I’m looking to collaborate on blogs and learning MongoDB, python.
 - 🤔 I’m looking to/for help with open source projects related to solar energy.
 - 💬 Ask me about solar engineering, design, datalogging for solar power plants, IoT. Connecting databases to NFT's.
-- 🔬 My current research is looking into GIS and #webGIS including using QGIS.
+- 🔬 My current research is looking into GIS and #webGIS including using QGIS. I am also writing another paper about snow melt rates on solar panels in Japan.
 - ⚡ Fun fact: I once rode my fixed gear bike from [Tokyo to Osaka](https://vimeo.com/user7005442) in 3 days and camped along the way in carparks, the bush and anywhere. I couldn't feel my hand for 2 months after this. It was awesome.
 
 My eclectic blog is [here.](https://lpninja.github.io/)
